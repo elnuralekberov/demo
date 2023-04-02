@@ -1,0 +1,24 @@
+.body {
+    font-size: 1.3rem;
+    background-color: #fff;
+}
+h1 {
+    margin: 300px;
+    font-size: 2.5rem;
+}
+.top-container {
+    max-width: 1000px;
+    margin: auto;
+    padding: 0.2rem;
+    height: 55vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.typeofcars {
+    display: flex;
+    text-align: center;
+}
+.typeofcars img {
+    max-width: 500px;
+}
